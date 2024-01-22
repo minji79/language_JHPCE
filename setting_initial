@@ -1,0 +1,5 @@
+# to login to the cluster - ssh.jhpce03.jhsph.edu
+ssh mkim@jhpce03.jhsph.edu
+
+# graphical program
+ssh -X mkim@jhpce03.jhsph.edu
